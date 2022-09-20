@@ -7,7 +7,7 @@ After having installed pyqt5, open a terminal and cd into the source folder. Lau
 
 python gameofamazons.py
 
-Change Joueur 2 to IA if you want to play against the AI.
+Change Joueur 1 (white) or Joueur 2 (black) to IA if you want to play against the AI. 
 
 Click "charger plateau" and click on default_plateau.txt
 

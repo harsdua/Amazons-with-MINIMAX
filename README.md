@@ -1,6 +1,6 @@
 # Game-Of-Amazons
 
-An implementation of the game of amazons in python using pyqt5
+An implementation of the game of amazons in python using pyqt5, with a functional minimax AI
 
 How to launch:
 After having installed pyqt5, open a terminal and cd into the source folder. Launch the game by using the following command
